@@ -1,0 +1,6 @@
+timestamp,user_id,location
+2026-07-05 08:00:00,EMPLOYEE_001,main_entrance
+2026-07-05 08:05:00,EMPLOYEE_001,desk_area
+2026-07-05 08:20:00,EMPLOYEE_001,breakroom
+2026-07-05 08:35:00,EMPLOYEE_001,breakroom
+2026-07-05 08:40:00,EMPLOYEE_001,desk_area
