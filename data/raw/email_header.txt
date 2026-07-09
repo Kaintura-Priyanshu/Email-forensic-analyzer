@@ -1,0 +1,23 @@
+Return-Path: <employee@company.com>
+Received: from mail.company.com (mail.company.com. [192.168.1.100])
+        by mx.google.com with ESMTPS id abc123
+        for <ceo@company.com>; Mon, 5 Jul 2026 08:30:15 -0700 (PDT)
+Received: from [185.220.101.23] (unknown [185.220.101.23])
+        by mail.company.com (Postfix) with ESMTP id xyz789
+        for <ceo@company.com>; Mon, 5 Jul 2026 08:30:10 -0700 (PDT)
+Authentication-Results: mail.company.com;
+        dkim=pass header.d=company.com;
+        spf=pass smtp.mailfrom=company.com;
+        dmarc=pass header.from=company.com
+DKIM-Signature: v=1; a=rsa-sha256; d=company.com; s=default;
+        bh=abc123; h=From:To:Subject:Date;
+        b=xyz789
+From: "Employee Name" <employee@company.com>
+To: "CEO Name" <ceo@company.com>
+Subject: OFFENSIVE MESSAGE CONTENT
+Date: Mon, 5 Jul 2026 08:30:00 -0700
+Message-ID: <123456@company.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+[OFFENSIVE CONTENT REDACTED]
