@@ -1,0 +1,5 @@
+timestamp,url,title
+2026-07-05 08:00:00,https://mail.company.com,Outlook
+2026-07-05 08:05:00,https://mail.company.com/sent,Outlook - Sent Items
+2026-07-05 08:10:00,https://mail.company.com/deleted,Outlook - Deleted Items
+2026-07-05 08:25:00,https://google.com/search?q=how+to+delete+outlook+email,Google Search
